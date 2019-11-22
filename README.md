@@ -1,1 +1,1 @@
-# AirBnB_clone
+This portion consists of web and html related files for AirBnB_clone
